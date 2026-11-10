@@ -1,11 +1,11 @@
 ## 💫 About Me:
 
-🔭 I'm currently working on: Fullstack Web Apps, API Security, and Database Troubleshooting
-🌱 I'm currently learning: Advanced System Design, CI/CD, and DevOps
-👯 I'm looking to collaborate on: Open-source React, Next.js, or Golang projects
-💬 Ask me about: Frontend Layouting, REST APIs, PostgreSQL, and multi-tenant data isolation!
-📫 How to reach me: **malailiyati107@gmail.com**
-⚡ Fun fact: I'm always up for trying new things! Off-screen, you can usually find me getting lost in a good book or doing some painting.
+🔭 I'm currently working on: Fullstack Web Apps, API Security, and Database Troubleshooting<br>
+🌱 I'm currently learning: Advanced System Design, CI/CD, and DevOps <br>
+👯 I'm looking to collaborate on: Open-source React, Next.js, or Golang projects <br>
+💬 Ask me about: Frontend Layouting, REST APIs, PostgreSQL, and multi-tenant data isolation! <br>
+📫 How to reach me: **malailiyati107@gmail.com** <br>
+⚡ Fun fact: I'm always up for trying new things! Off-screen, you can usually find me getting lost in a good book or doing some painting. <br>
 
 ---
 
@@ -38,7 +38,9 @@
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malailiyati&show_icons=true&theme=tokyonight&hide_border=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=malailiyati&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=malailiyati&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=malailiyati&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+
+
