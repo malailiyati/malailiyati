@@ -37,10 +37,5 @@
 
 ---
 
-## 📊 GitHub Stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=malailiyati&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-## 🏆 GitHub Trophies
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=malailiyati&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 
 
